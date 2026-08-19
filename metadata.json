@@ -1,0 +1,6 @@
+{
+  "name": "Quản Lý Trạm Phát Điện",
+  "description": "Trò chơi clicker nhẹ nhàng về quản lý trạm phát điện, nâng cấp máy phát và thắp sáng thành phố.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
